@@ -9,3 +9,5 @@ Taylor - added taylor.html and linked to index.html
 Fion - added fion.html and linked to index.html
 
 Taylor - added a paragraph to taylor.html
+
+Fion - created "new" directory and moved fion.html into it
